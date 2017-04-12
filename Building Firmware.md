@@ -6,6 +6,8 @@
 - **Building your keymap and keyboard firmware**
 - [**Flashing** your Let's Split with your created firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)
 
+---
+
 ## For the default keymap, with no customization
 
 1) Change the directory to your Lets_Split folder 
