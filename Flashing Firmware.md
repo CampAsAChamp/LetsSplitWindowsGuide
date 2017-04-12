@@ -1,5 +1,12 @@
 # FLASHING (Not the one that gets you in trouble)
 
+### Table of Contents
+
+- [**Setting Up** and Installing Software](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Setting%20Up.md)
+- [**Building** your keymap and keyboard firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Building%20Firmware.md)
+- _**Flashing your Let's Split with your created firmware**_
+
+
 1) Open up AVRDUDESS
 
 > * If you get an error saying that it can’t start because libusb0.dll is missing then **read step 2 of the SETUP GUIDE** above
@@ -53,3 +60,5 @@
 16) Time to test it out, plug in your TRRS cable to both sides, and then plug in the USB on the left side and open a notepad window to test out all the keys and make sure your soldering skills were good
 
 17) **Congrats on correctly flashing your own Let’s Split, and hope this helps those out who are having trouble with programming their Let’s Splits like I did**
+
+[Back to the start](https://github.com/CampAsAChamp/LetsSplitWindowsGuide)

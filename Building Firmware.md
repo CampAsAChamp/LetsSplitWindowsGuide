@@ -1,5 +1,11 @@
 # BUILDING HEX
 
+### Table of Contents
+
+- [**Setting Up** and Installing Software](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Setting%20Up.md)
+- _**Building** your keymap and keyboard firmware**_
+- [**Flashing your Let's Split with your created firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)
+
 ## For the default keymap, with no customization
 
 1) Change the directory to your Lets_Split folder 
@@ -47,3 +53,5 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/keyboards/lets_split
 > * This folder will be generated and your appropriate hex files will be inside, all you need is your .hex file, so copy that somewhere safe, or you can just drag it in the let’s split folder in QMK 
 
 ![](http://i.imgur.com/DaOXSil.png)
+
+### [Next Step(Flashing firmware)](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)

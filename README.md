@@ -4,10 +4,11 @@ This guide will be a walk through on how to set up and flash your let's split to
 
 ### 3 Main Steps
 
-- **Setting Up** and Installing Software
-- **Building** your keymap and keyboard firmware
-- **Flashing** your Let's Split with your created firmware
+- [**Setting Up** and Installing Software](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Setting%20Up.md)
+- [**Building** your keymap and keyboard firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Building%20Firmware.md)
+- [**Flashing** your Let's Split with your created firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)
 
+-----
 
 ### Helpful references
 
