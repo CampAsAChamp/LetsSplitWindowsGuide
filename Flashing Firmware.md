@@ -4,7 +4,7 @@
 
 - [**Setting Up** and Installing Software](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Setting%20Up.md)
 - [**Building** your keymap and keyboard firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Building%20Firmware.md)
-- _**Flashing your Let's Split with your created firmware**_
+- **Flashing your Let's Split with your created firmware**
 
 
 1) Open up AVRDUDESS
