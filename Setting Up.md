@@ -6,6 +6,8 @@
 - [**Building** your keymap and keyboard firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Building%20Firmware.md)
 - [**Flashing** your Let's Split with your created firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)
 
+---
+
 1) Install Bash Shell on Windows, follow [this guide](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 
 2) Download and install **AVRDudess**, [link here](http://blog.zakkemble.co.uk/avrdudess-a-gui-for-avrdude/)

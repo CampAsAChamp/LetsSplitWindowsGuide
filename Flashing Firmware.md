@@ -6,6 +6,7 @@
 - [**Building** your keymap and keyboard firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Building%20Firmware.md)
 - **Flashing your Let's Split with your created firmware**
 
+---
 
 1) Open up AVRDUDESS
 
@@ -61,4 +62,4 @@
 
 17) **Congrats on correctly flashing your own Let’s Split, and hope this helps those out who are having trouble with programming their Let’s Splits like I did**
 
-[Back to the start](https://github.com/CampAsAChamp/LetsSplitWindowsGuide)
+### [Back to the start](https://github.com/CampAsAChamp/LetsSplitWindowsGuide)
