@@ -20,7 +20,7 @@
 
 ![](http://i.imgur.com/wefkngw.png)
 
-4) Select your .hex file in the for the flash box (click the … box to the right)
+4) Select your .hex file in the for the flash box (**click the … box to the right**)
 
 ![](http://i.imgur.com/ZR0UON1.png)
 
