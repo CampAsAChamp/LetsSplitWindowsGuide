@@ -20,17 +20,17 @@ Hard drives are accessed from `cd /mnt/<driveletter>`
 
 Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/keyboards/lets_split`
 
-2) Type **`make`** and it will build all of the hex’s that are available by default (Serial and i2c, for both Rev 1 & Rev 2) 
+2) Type **`make`** and it will build all of the hexâ€™s that are available by default (Serial and i2c, for both Rev 1 & Rev 2) 
 
 ![](http://i.imgur.com/1Kz4znI.png)
 
 3) Your hex file and a folder will be generated for you at the following location **`qmk_firmware_master/.build`**	 	
 
-> * This folder will be generated and your appropriate hex files will be inside, all you need is your .hex file, so copy that somewhere safe, or you can just drag it in the let’s split folder in QMK 
+> * This folder will be generated and your appropriate hex files will be inside, all you need is your .hex file, so copy that somewhere safe, or you can just drag it in the letâ€™s split folder in QMK 
 
 ![](http://i.imgur.com/DaOXSil.png)
 
-## For customization
+## For customization (Skip if you wanted just the default layout, steps for that are above)
 
 1) **Change the directory to your Lets_Split folder**
 
@@ -46,13 +46,13 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/keyboards/lets_split
 
 > * Only if using Rev 2 PCB, **if you are using Rev 1 just do everything in Rev 1 folder**, and type **`make rev1`**
 
-* For me, I had to reverse the right side, because it was flipped, read the instructions for that above, at the end of the _zsh's guide, he goes over how to fix this. I’m not going to go into customization in this guide, so just check the QMK Wiki
+* For me, I had to reverse the right side, because it was flipped, read the instructions for that above, at the end of the _zsh's guide, he goes over how to fix this. Iâ€™m not going to go into customization in this guide, so just check the QMK Wiki
 
 3) Type **`make rev2`**
 
 4) Your hex file and a folder will be generated for you at the following location **`qmk_firmware_master/.build`**
 
-> * This folder will be generated and your appropriate hex files will be inside, all you need is your .hex file, so copy that somewhere safe, or you can just drag it in the let’s split folder in QMK 
+> * This folder will be generated and your appropriate hex files will be inside, all you need is your .hex file, so copy that somewhere safe, or you can just drag it in the letâ€™s split folder in QMK 
 
 ![](http://i.imgur.com/DaOXSil.png)
 
