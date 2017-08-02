@@ -38,6 +38,10 @@
 
 ![](http://www.14core.com/wp-content/uploads/2015/12/Reset-Button-Place-Micro-Mini-Pro.jpg)
 
+8b) Alternatively you can set the baud rate to 1200 and hit program to cause a reset but you'll need to set the baud rate back to 57600 or leave the baud rate blank to get it to program properly once you get it in bootloader mode.
+
+![](https://i.imgur.com/Ul0jpmG.png)
+
 9) Take something metal and touch between the **ground and reset** pins to short them out, or if your’s has a reset button then press that to enter the bootloader mode
 
 10) Quickly open the Port drop down menu and select the new **COMM** port that has popped up, then click program 
