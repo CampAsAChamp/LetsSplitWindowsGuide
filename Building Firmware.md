@@ -22,13 +22,13 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/`
 
 2) Type **`make lets_split-rev2`** and it will build all of the hex’s that are available by default (Serial and i2c, for both Rev 1 & Rev 2) 
 
-![](https://i.imgur.com/RjoqLap.png)
+![](https://i.imgur.com/kzpCKaH.png)
 
 3) Your hex files will be generated for you in the same folder, **`qmk_firmware_master/`**	 	
 
 > * All you need is your lets_split_rev2_default.hex file 
 
-![](https://i.imgur.com/ProrlQZ.png)
+![](https://i.imgur.com/uR1Q7F0.png)
 
 ## For customization (Skip if you wanted just the default layout, steps for that are above)
 
@@ -46,6 +46,6 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/`
 
 > * All you need is your .hex file, so copy that somewhere safe, or you can just drag it in the let’s split folder in QMK 
 
-![](https://i.imgur.com/Fo7NaHA.png)
+![](https://i.imgur.com/jqVpwl9.png)
 
 ### [Next Step(Flashing firmware)](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)
