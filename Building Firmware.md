@@ -12,7 +12,7 @@
 
 1) Change the directory to your QMK folder 
 
-![](http://i.imgur.com/C4omjSV.png)
+![](https://i.imgur.com/Yolz2bJ.png)
 
 * Do this using the **`cd`** command 
 
@@ -22,13 +22,13 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/`
 
 2) Type **`make lets_split-rev2`** and it will build all of the hex’s that are available by default (Serial and i2c, for both Rev 1 & Rev 2) 
 
-![](http://i.imgur.com/1Kz4znI.png)
+![](https://i.imgur.com/RjoqLap.png)
 
 3) Your hex files will be generated for you in the same folder, **`qmk_firmware_master/`**	 	
 
 > * All you need is your lets_split_rev2_default.hex file 
 
-![](http://i.imgur.com/DaOXSil.png)
+![](https://i.imgur.com/ProrlQZ.png)
 
 ## For customization (Skip if you wanted just the default layout, steps for that are above)
 
@@ -40,10 +40,12 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/`
 
 3) Type **`make lets_split-rev2-<keymap>`** and replace `<keymap>` with your keymap, for example: `make lets_split-rev2-nick`
 
+![](https://i.imgur.com/6wbxeEX.png)
+
 4) Your hex file will be generated for you in the root folder, **`qmk_firmware_master/`**
 
 > * All you need is your .hex file, so copy that somewhere safe, or you can just drag it in the let’s split folder in QMK 
 
-![](http://i.imgur.com/DaOXSil.png)
+![](https://i.imgur.com/ProrlQZ.png)
 
 ### [Next Step(Flashing firmware)](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)
