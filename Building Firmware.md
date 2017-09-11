@@ -46,6 +46,6 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/`
 
 > * All you need is your .hex file, so copy that somewhere safe, or you can just drag it in the let’s split folder in QMK 
 
-![](https://i.imgur.com/ProrlQZ.png)
+![](https://i.imgur.com/Fo7NaHA.png)
 
 ### [Next Step(Flashing firmware)](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)
