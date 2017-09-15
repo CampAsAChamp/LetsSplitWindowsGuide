@@ -10,50 +10,42 @@
 
 ## For the default keymap, with no customization
 
-1) Change the directory to your Lets_Split folder 
+1) Change the directory to your QMK folder 
 
-![](http://i.imgur.com/C4omjSV.png)
+![](https://i.imgur.com/Yolz2bJ.png)
 
 * Do this using the **`cd`** command 
 
 Hard drives are accessed from `cd /mnt/<driveletter>`
 
-Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/keyboards/lets_split`
+Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/`
 
-2) Type **`make`** and it will build all of the hex’s that are available by default (Serial and i2c, for both Rev 1 & Rev 2) 
+2) Type **`make lets_split-rev2`** and it will build all of the hex’s that are available by default (Serial and i2c, for both Rev 1 & Rev 2) 
 
-![](http://i.imgur.com/1Kz4znI.png)
+![](https://i.imgur.com/kzpCKaH.png)
 
-3) Your hex file and a folder will be generated for you at the following location **`qmk_firmware_master/.build`**	 	
+3) Your hex files will be generated for you in the same folder, **`qmk_firmware_master/`**	 	
 
-> * This folder will be generated and your appropriate hex files will be inside, all you need is your .hex file, so copy that somewhere safe, or you can just drag it in the let’s split folder in QMK 
+> * All you need is your lets_split_rev2_default.hex file 
 
-![](http://i.imgur.com/DaOXSil.png)
+![](https://i.imgur.com/uR1Q7F0.png)
 
 ## For customization (Skip if you wanted just the default layout, steps for that are above)
 
-1) **Change the directory to your Lets_Split folder**
+1) Customize and configure your files in the Rev 2 folder (keymap.c for layout, but check [QMK docs](https://docs.qmk.fm) on GitHub for more advanced)
 
-![](http://i.imgur.com/C4omjSV.png)
+> * Only if using Rev 2 PCB, **if you are using Rev 1**, type **`make lets_split-rev1-<keymap>`**
 
-* Do this using the **`cd`** command 
+* For me, I had to reverse the right side, because it was flipped, read the instructions for that above, at the end of the _zsh's guide, he goes over how to fix this. I’m not going to go into customization in this guide, so just check the [QMK Docs](https://docs.qmk.fm)
 
-Hard drives are accessed from `cd /mnt/<driveletter>`
+3) Type **`make lets_split-rev2-<keymap>`** and replace `<keymap>` with your keymap, for example: `make lets_split-rev2-nick`
 
-Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/keyboards/lets_split`
+![](https://i.imgur.com/6wbxeEX.png)
 
-2) Customize and configure your files in the Rev 2 folder (keymap.c for layout, but check QMK wiki on GitHub for more advanced)
+4) Your hex file will be generated for you in the root folder, **`qmk_firmware_master/`**
 
-> * Only if using Rev 2 PCB, **if you are using Rev 1 just do everything in Rev 1 folder**, and type **`make rev1`**
+> * All you need is your .hex file, so copy that somewhere safe, or you can just drag it in the let’s split folder in QMK 
 
-* For me, I had to reverse the right side, because it was flipped, read the instructions for that above, at the end of the _zsh's guide, he goes over how to fix this. I’m not going to go into customization in this guide, so just check the QMK Wiki
-
-3) Type **`make rev2`**
-
-4) Your hex file and a folder will be generated for you at the following location **`qmk_firmware_master/.build`**
-
-> * This folder will be generated and your appropriate hex files will be inside, all you need is your .hex file, so copy that somewhere safe, or you can just drag it in the let’s split folder in QMK 
-
-![](http://i.imgur.com/DaOXSil.png)
+![](https://i.imgur.com/jqVpwl9.png)
 
 ### [Next Step(Flashing firmware)](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)
