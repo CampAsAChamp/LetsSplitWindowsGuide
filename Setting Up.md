@@ -26,7 +26,7 @@ https://github.com/qmk/qmk_firmware
 
 5) **Change the directory to your QMK copy**, which you just unzipped.
 
-![](http://i.imgur.com/z7NG8W0.png)
+![](https://i.imgur.com/Yolz2bJ.png)
 
 * Do this using the `cd` command (Hard drives are accessed in bash by typing `cd /mnt/<driveletter>`)
 
