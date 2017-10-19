@@ -4,11 +4,11 @@
 
 - **Setting Up and Installing Software**
 - [**Building** your keymap and keyboard firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Building%20Firmware.md)
-- [**Flashing** your Let's Split with your created firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)
+- [**Flashing** your Let's Split with your created firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md) 
 
 ---
 
-### Building .hex file setup:
+### Building .hex file prerequisites:
 
 1) Install Bash Shell on Windows, follow [this guide](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 
@@ -38,7 +38,7 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master`
 
 ---
 
-### Flashing .hex setup:
+### Flashing .hex prerequisites:
 
 1) Download Arduino drivers through the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 
