@@ -22,9 +22,9 @@
 
 4) Select your .hex file in the for the flash box (**click the … box to the right**)
 
-![](http://i.imgur.com/ZR0UON1.png)
-
 5) Select the **`eeprom-lefthand.eep`** file in the QMK Lets_split folder for the **EEPROM box** 
+
+![](http://i.imgur.com/ZR0UON1.png)
 
 > * Make sure to select only one file, as you will have to change this file when flashing the right side
 
