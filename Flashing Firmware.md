@@ -10,7 +10,7 @@
 
 1) Open up AVRDUDESS
 
-> * If you get an error saying that it can’t start because libusb0.dll is missing then **read step 2 of the Setting Up(Flashing .hex prerequisites)** section above
+> * If you get an error saying that it can’t start because libusb0.dll is missing then **read step 3 of the Setting Up(Flashing .hex prerequisites)** section above
 
 2) Select **Atmel AppNote AVR109 Boot Loader** for the **programmer**
 
