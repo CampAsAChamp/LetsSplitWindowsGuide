@@ -20,7 +20,7 @@ Hard drives are accessed from `cd /mnt/<driveletter>`
 
 Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/`
 
-2) Type **`make lets_split-rev2`** and it will build all of the hex’s that are available by default (Serial and i2c, for both Rev 1 & Rev 2) 
+2) Type **`make lets_split/rev2:default`** and it will build all of the hex’s that are available by default (Serial and i2c, for both Rev 1 & Rev 2) 
 
 ![](https://i.imgur.com/kzpCKaH.png)
 
