@@ -34,11 +34,11 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/`
 
 1) Customize and configure your files in the Rev 2 folder (keymap.c for layout, but check [QMK docs](https://docs.qmk.fm) on GitHub for more advanced)
 
-> * Only if using Rev 2 PCB, **if you are using Rev 1**, type **`make lets_split-rev1-<keymap>`**
+> * Only if using Rev 2 PCB, **if you are using Rev 1**, type **`make lets_split/rev1:<keymap>`**
 
 * For me, I had to reverse the right side, because it was flipped, read the instructions for that above, at the end of the _zsh's guide, he goes over how to fix this. I’m not going to go into customization in this guide, so just check the [QMK Docs](https://docs.qmk.fm)
 
-3) Type **`make lets_split-rev2-<keymap>`** and replace `<keymap>` with your keymap, for example: `make lets_split-rev2-nick`
+3) Type **`make lets_split/rev2:<keymap>`** and replace `<keymap>` with your keymap, for example: `make lets_split/rev2:nick`
 
 ![](https://i.imgur.com/6wbxeEX.png)
 
