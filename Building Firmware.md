@@ -22,7 +22,7 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/`
 
 2) Type **`make lets_split/rev2:default`** and it will build all of the hex’s that are available by default (Serial and i2c, for both Rev 1 & Rev 2) 
 
-![](https://i.imgur.com/kzpCKaH.png)
+![](https://i.imgur.com/UDnwuqB.png)
 
 3) Your hex files will be generated for you in the same folder, **`qmk_firmware_master/`**	 	
 
