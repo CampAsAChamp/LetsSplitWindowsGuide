@@ -40,7 +40,7 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master/`
 
 3) Type **`make lets_split/rev2:<keymap>`** and replace `<keymap>` with your keymap, for example: `make lets_split/rev2:nick`
 
-![](https://i.imgur.com/6wbxeEX.png)
+![](https://i.imgur.com/k6S7OjR.png)
 
 4) Your hex file will be generated for you in the root folder, **`qmk_firmware_master/`**
 
