@@ -12,9 +12,9 @@
 
 
 
-~~1) Install Bash Shell on Windows, follow [this guide](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)~~ **Out-Dated, MYSYS is now recommended**
+~~1) Install Bash Shell on Windows, follow [this guide](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)~~ **Out-Dated, MSYS2 is now recommended**
 
-1) Install MSYS, following [this guide](https://docs.qmk.fm/install-build-tools)
+1) Install MSYS2, following [this guide](https://docs.qmk.fm/install-build-tools)
 > * Scroll down for how to install MSYS if you are on Windows
 
 
