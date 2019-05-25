@@ -23,6 +23,7 @@
 4) Select your .hex file in the for the flash box (**click the … box to the right**)
 
 5) Select the **`eeprom-lefthand.eep`** file in the QMK Lets_split folder for the **EEPROM box** 
+(Note: For new versions of QMK use QMK\quantum\split_common)
 
 ![](http://i.imgur.com/ZR0UON1.png)
 
