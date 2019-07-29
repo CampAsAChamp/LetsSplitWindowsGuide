@@ -28,19 +28,19 @@ https://github.com/qmk/qmk_firmware
 3) **Extract the zip** so you have a folder named **QMK or qmk_firmware_master**
 > * Place this in a nice easy location, that doesn’t require administrator access, like your documents folder or desktop
 
-4) **Open a bash shell window** through the start menu (should be called bash.exe or Bash on Ubuntu on Windows)
+4) **Open a MSYS2 window** through the start menu (should be called "MSYS2 MSYS2" on Ubuntu on Windows)
 
 5) **Change the directory to your QMK copy**, which you just unzipped.
 
 ![](https://i.imgur.com/Yolz2bJ.png)
 
-* Do this using the `cd` command (Hard drives are accessed in bash by typing `cd /mnt/<driveletter>`)
+* Do this using the `cd` command (Hard drives are accessed in MSYS2 by typing `cd /<driveletter>`)
 
-Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master`
+Example `cd /c/Users/Nick/Documents/qmk_firmware_master`
 
-6) Run **`sudo util/qmk_install.sh`**, This will run `apt-get upgrade`
+6) Run **util/qmk_install.sh`**, This will run `apt-get upgrade`
 
-7) Wait a while (5 minutes for me), and then you are good to go
+7) Accept default repositories and wait a while (5 minutes for me), and then you are good to go
 
 ---
 
@@ -60,7 +60,8 @@ Example `cd /mnt/c/Users/Nick/Documents/qmk_firmware_master`
 
 ![](http://i.imgur.com/0QiBvd0.png)
 
-5) Copy the **4 `libusb0` files** from the WinAVR folder into the AVRDUDESS Program Files location and it should look like this now 
+5) Copy the **4 `libusb0` files** from the WinAVR folder into the AVRDUDESS Program Files location and it should look like this now.
+**NOTICE** If these files already exist, then it is unecessary to copy them.
 
 ![](http://i.imgur.com/JPpaRmA.png)
 
