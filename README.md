@@ -8,8 +8,6 @@ This guide will be a walk through on how to set up and flash your let's split to
 - [**Building** your keymap and keyboard firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Building%20Firmware.md)
 - [**Flashing** your Let's Split with your created firmware](https://github.com/CampAsAChamp/LetsSplitWindowsGuide/blob/master/Flashing%20Firmware.md)
 
-## Feel free to contact me at any time on reddit /u/CampAsAChamp if you are having trouble or have any questions.
-
 -----
 
 ### Helpful references
