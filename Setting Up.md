@@ -38,7 +38,7 @@ https://github.com/qmk/qmk_firmware
 
 Example `cd /c/Users/Nick/Documents/qmk_firmware_master`
 
-6) Run **util/qmk_install.sh`**, This will run `apt-get upgrade`
+6) Run **`util/qmk_install.sh`**, This will run `apt-get upgrade`
 
 7) Accept default repositories and wait a while (5 minutes for me), and then you are good to go
 
